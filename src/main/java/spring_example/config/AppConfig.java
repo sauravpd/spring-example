@@ -6,6 +6,11 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.PropertySource;
 import org.springframework.context.support.PropertySourcesPlaceholderConfigurer;
 
+/**
+ * App Configuration  
+ * @author saurav
+ *
+ */
 @Configuration
 @ComponentScan({"spring_example"})
 @PropertySource("app.properties")
