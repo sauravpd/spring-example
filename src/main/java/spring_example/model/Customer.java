@@ -1,5 +1,10 @@
 package spring_example.model;
 
+/**
+ * Customer details class
+ * @author saurav
+ *
+ */
 public class Customer 
 {
 	private String firstName;
