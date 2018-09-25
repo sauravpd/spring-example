@@ -8,6 +8,11 @@ import org.springframework.stereotype.Component;
 import spring_example.model.Customer;
 import spring_example.repository.CustomerRepository;
 
+/**
+ * CustomerServiceImpl class
+ * @author saurav
+ *
+ */
 @Component("customerService")
 public class CustomerServiceImpl implements CustomerService 
 {
