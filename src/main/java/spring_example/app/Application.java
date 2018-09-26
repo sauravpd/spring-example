@@ -7,6 +7,11 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
 import spring_example.config.AppConfig;
 import spring_example.service.CustomerService;
 
+/**
+ * Application
+ * @author saurav
+ *
+ */
 public class Application 
 {
 	public static void main(String[] args) 
